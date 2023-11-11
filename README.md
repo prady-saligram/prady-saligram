@@ -45,6 +45,6 @@ I am Prady Saligram, pursuing my B.S. in Computer Science at Stanford University
 
 
 -----
-Credits: [Prady Saligram](https://github.com/Khushi0321)
+Credits: [Prady Saligram](https://github.com/prady-saligram)
 
 Last Edited on: 11/10/2023
