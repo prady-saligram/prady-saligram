@@ -4,7 +4,7 @@ I am Prady Saligram, pursuing my B.S. in Computer Science at Stanford University
 
 [![Linkedin Badge](https://img.shields.io/badge/-PradySaligram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prady-saligram/)](https://www.linkedin.com/in/prady-saligram/)
 [![Gmail Badge](https://img.shields.io/badge/-psaligram@stanford.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:psaligram@stanford.edu)](mailto:psaligram@stanford.edu)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://khushi0321.github.io/portfolio/#/)](https://khushi0321.github.io/portfolio/#/)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://prady-saligram.github.io/portfolio/#/)](https://prady-saligram.github.io/portfolio/#/)
 
 [![Prady's github activity graph](https://activity-graph.herokuapp.com/graph?username=prady-saligram&theme=xcode)](https://git.io/prady-saligram)
 
