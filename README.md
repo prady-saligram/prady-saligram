@@ -6,7 +6,7 @@ I am Prady Saligram, pursuing my B.S. in Computer Science at Stanford University
 [![Gmail Badge](https://img.shields.io/badge/-psaligram@stanford.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:psaligram@stanford.edu)](mailto:psaligram@stanford.edu)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://khushi0321.github.io/portfolio/#/)](https://khushi0321.github.io/portfolio/#/)
 
-[![Khushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=prady-saligram&theme=xcode)](https://git.io/prady-saligram)
+[![Prady's github activity graph](https://activity-graph.herokuapp.com/graph?username=prady-saligram&theme=xcode)](https://git.io/prady-saligram)
 
 ## ⚡ Technologies
 
@@ -37,8 +37,8 @@ I am Prady Saligram, pursuing my B.S. in Computer Science at Stanford University
 
 <p align="center">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Khushi0321&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi0321&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prady-saligram&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prady-saligram&theme=tokyonight" />
 </p>
 
 <br>
