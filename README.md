@@ -1,6 +1,6 @@
 ## Hi, I'm Prady! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Prady Saligram, pursuing my B.S. in Computer Science at Stanford University. I'm passionate about creating innovative and disruptive projects that leverage technology to make a positive impact! My current skillsets include JavaScript, React, C++, ML/DL and I'm always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Prady Saligram, pursuing my B.S. in Computer Science at Stanford University. My current skillsets include JavaScript, React, C++, ML/DL and I'm always open to collaborating on projects and innovative/disruptive ideas! Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-PradySaligram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prady-saligram/)](https://www.linkedin.com/in/prady-saligram/)
 [![Gmail Badge](https://img.shields.io/badge/-psaligram@stanford.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:psaligram@stanford.edu)](mailto:psaligram@stanford.edu)
