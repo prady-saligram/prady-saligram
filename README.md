@@ -1,4 +1,4 @@
-## Hi, I am Prady Saligram! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi, I'm Prady! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I am Prady Saligram, pursuing my B.S. in Computer Science at Stanford University. I'm passionate about creating innovative and disruptive projects that leverage technology to make a positive impact! My current skillsets include JavaScript, React, C++, ML/DL and I'm always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
