@@ -8,37 +8,17 @@ I’m Prady Saligram, Stanford CS + Math dual major, building quant trading engi
 
 ## ⚡ Technologies
 
-### Languages  
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)  
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+**Languages:**  
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-### Quant & ML  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)  
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy)  
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch)  
-![JAX](https://img.shields.io/badge/-JAX-black?style=flat-square&logo=JAX)  
-![Optuna](https://img.shields.io/badge/-Optuna-3F6CE4?style=flat-square&logo=optuna)  
-![FAISS](https://img.shields.io/badge/-FAISS-000000?style=flat-square)
+**Quant & ML:**  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch) ![JAX](https://img.shields.io/badge/-JAX-black?style=flat-square&logo=JAX) ![Optuna](https://img.shields.io/badge/-Optuna-3F6CE4?style=flat-square&logo=optuna) ![FAISS](https://img.shields.io/badge/-FAISS-000000?style=flat-square)
 
-### Web & Framework  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)  
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+**Web & Framework:**  
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-### Tools & Infra  
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
+**Tools & Infra:**  
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a> ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"> ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
 
 ## 📈 Stats
 
